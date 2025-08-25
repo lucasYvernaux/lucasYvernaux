@@ -4,8 +4,10 @@
 - ❤️ I love working on web projects, with or not framework, I have a weakness for native languages.
 - 🛠️ I tinkering on my free time.
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasYvernaux&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"/>
+</div>
 
-<img style="display: block; margin: 0 auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasYvernaux&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"/>
 <!--
 **lucasYvernaux/lucasYvernaux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
