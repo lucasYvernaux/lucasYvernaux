@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🕸️ I'm a full-stack developer at Paris, France.
+- ❤️ I love working on web projects, with or not framework, I have a weakness for native languages.
+- 🛠️ I tinkering on my free time.
 <!--
 **lucasYvernaux/lucasYvernaux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
